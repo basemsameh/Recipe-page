@@ -16,12 +16,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Screenshot
 
 ![Desktop View](./design/desktop-design.png)
-![Mobile View](./design/mobile-design.png)
-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: ([https://your-solution-url.com](https://github.com/basemsameh/Recipe-page.git))
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
