@@ -19,14 +19,16 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: ([https://your-solution-url.com](https://github.com/basemsameh/Recipe-page.git))
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My live site URL](https://github.com/basemsameh/Recipe-page.git))
+- Live Site URL: [My live site URL]([https://your-live-site-url.com](https://basemsameh.github.io/Recipe-page/))
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
+- Table
+- Unordered and ordered lists
 - CSS custom properties
 
 ## Author
